@@ -285,25 +285,25 @@ X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
             
 ### TeX(LaTeX)
    
-$$E=mc^2$$
+$$ E=mc^2 $$
 
-Inline $$E=mc^2$$ Inline，Inline $$E=mc^2$$ Inline。
+Inline $$ E=mc^2 $$ Inline，Inline $$ E=mc^2 $$ Inline。
 
-$$\(\sqrt{3x-1}+(1+x)^2\)$$
+$$ \(\sqrt{3x-1}+(1+x)^2\) $$
                     
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
+$$ \sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f)) $$
                 
 ### FlowChart
 
 ```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
+st => start: Login
+op => operation: Login operation
+cond => condition: Successful Yes or No?
+e => end: To admin
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
+st -> op -> cond
+cond(yes) -> e
+cond(no) -> op
 ```
 
 ### Sequence Diagram
