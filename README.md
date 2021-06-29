@@ -43,13 +43,13 @@ H1 Header (Underline)
 H2 Header (Underline)
 -------------
 
-###Characters
+### Characters
                 
 ----
 
 ~~Strikethrough~~ <s>Strikethrough (when enable html tag decode.)</s>
-*Italic*      _Italic_
-**Emphasis**  __Emphasis__
+* Italic *      _Italic_
+** Emphasis **  __Emphasis__
 *** Emphasis Italic*** ___Emphasis Italic___
 
 Superscript: X<sub>2</sub>，Subscript: O<sup>2</sup>
@@ -58,7 +58,7 @@ Superscript: X<sub>2</sub>，Subscript: O<sup>2</sup>
 
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
 
-###Blockquotes
+### Blockquotes
 
 > Blockquotes
 
@@ -66,7 +66,7 @@ Paragraphs and Line Breaks
                     
 > "Blockquotes Blockquotes", [Link](http://localhost/)。
 
-###Links
+### Links
 
 [Links](http://localhost/)
 
@@ -80,13 +80,13 @@ Paragraphs and Line Breaks
 
 GFM a-tail link @pandao
 
-###Code Blocks (multi-language) & highlighting
+### Code Blocks (multi-language) & highlighting
 
-####Inline code
+#### Inline code
 
 `$ npm install marked`
 
-####Code Blocks (Indented style)
+#### Code Blocks (Indented style)
 
 Indented 4 spaces, like `<pre>` (Preformatted Text).
 
